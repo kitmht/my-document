@@ -1,0 +1,329 @@
+# Mr. Evine 中学英文法
+
+## Lesson 01 英語の語順　SV文型
+
+- Sは主語
+- Vは動詞
+- M(修飾語)は形容詞と副詞のみ
+- 修飾語が2語以上で修飾語句
+- 修飾語の順番は SV + 場所 + 時
+- 前置詞+名詞は前置詞句 → 前置詞句はMになる
+
+### 例文
+
+- I run in the park on Sunday.(僕は日曜日に公園で走る)
+- I walk to school.(僕は歩いて学校に行く)
+- I sleep at school.(僕は学校で寝る)
+- You run in the park in the morning.(君は午前中、公園を走る)
+- You come here every day.(君は毎日ここに来る)
+
+---
+
+## Lesson 02 英語の語順　SVC文型
+
+- Cは補語
+- C(補語)は名詞か形容詞のみ
+- S=Cが成り立つ
+
+### 例文
+
+- The boy is Takeshi.(その男の子はタケシ君です)
+- The girls look poor.(その少女たちは貧しそうに見えます)
+- We become adults.(私たちは大人になります)
+
+---
+
+## Lesson 03 英語の語順　SVO文型
+
+- O(目的語)
+- Oは名詞のみ
+- S=Oは成り立たない
+
+### 例文
+
+- You love soccer.(あなたはサッカーを愛している)
+- You want a dog.(あなたは犬を欲しがっています)
+- You eat lunch.(あなたは昼食を食べる)
+
+---
+
+## Lesson 04 形容詞と副詞
+
+- 形容詞も副詞も修飾語
+- 形容詞はCとMで使用できる
+- 副詞はM専門(Cになれない)
+- 形容詞は名詞を修飾
+- 副詞は名詞以外を修飾
+- 前置詞句は副詞or形容詞になる
+
+### 数・量を表す形容詞(数えられる名詞/数えられない名詞)
+
+- 全ての all
+- たくさんの many/much、a lot of
+- いつくかの some(疑問文・否定文はany)
+- 少しの a few/a little
+- ほとんどない few/little
+- まったくない no
+
+### 頻度を表す副詞
+
+- いつも always
+- ふつう、たいてい usually
+- しばしば、よく often
+- ときどき sometimes
+- めったにない seldom
+- 一度もない never
+
+### 例文
+
+- This is a nice car.(これは素敵な車です)
+- I study English hard.(僕は一生懸命に、英語を勉強する)
+- I have a big car.(僕は大きな車を持っている)
+- I have a very nice car.(僕はとても素敵な車を持っている)
+- A test is very hard.(テストはとても難しい)
+- I like a hard test.(僕は難しいテストが好きだ)
+- You work hard.(あなたは一生懸命に働く)
+- You are early today.(今日は早いねぇ)
+- You sleep early.(あなたは早く寝ますね)
+- I have a few friends.(私には数人の友達がいます)
+- You need a little information and advice.(あなたには少しの情報とアドバイスが必要だ)
+- You seldom use a telephone.(君はめったに電話を使わない)
+- He runs on the island.(彼はその島の中を走る)
+- The book on the desk is mine.(机の上の本は僕のです)
+
+---
+
+## Lesson 05 英語の語順　SVOO文型
+
+- O1(間接目的語)、O2(直接目的語)
+- 誰々(O1)に何々(O2)を
+- SVOOはSVO+Mに書き換え可能
+
+### 例文
+
+- I teach you English.(僕はあなたに英語を教えます)
+- I give you a necklace.(私はあなたにネックレスをあげます)
+- I buy you a marriage ring.(私はあなたに結婚指輪を買います)
+- I give you some money.(私は君にいくらかお金をあげよう)
+- You make breakfast for me.(あなたは私に朝食を作ってくれます)
+- You find a nice teacher for me.(君は素敵な先生を僕に見つけてくれる)
+- I cook grilled chicken for you.(私はあなたにグリルチキンを料理します)
+- I sing a beautiful song for you.(僕は君に美しい歌を歌います)
+- You show a beautiful landscape to me.(あなたは私に美しい景色をみせてくれます)
+- I tell a fantastic story to you.(私はあなたにとても素晴らしい物語を話します)
+- You send a postcard to me.(君はハガキを僕に送ってくれる)
+- I write a letter to you every day.(僕は毎日、君に手紙を書きます)
+
+---
+
+## Lesson 06 英語の語順　SVOC文型
+
+- 不完全他動詞のときSVOC
+- O=C
+
+### 例文
+
+- I call you Tom.(僕は君をトムと呼びます)
+- You make Satoshi quiet.(君はサトシを静かにさせる)
+- I call the boy Kan-kun.(僕はその男の子をカン君と呼ぶ)
+- I name the robot Taro.(僕はそのロボットをタロウと名付ける)
+
+---
+
+## Lesson 07 主語と動詞
+
+- 動詞はbe動詞と一般動詞がある
+- 主格の代名詞(単数/複数)
+  - I/We
+  - You
+  - He・She・It/They
+
+
+### 例文
+
+- She is a teacher.(彼女は先生です)
+- She plays the trumpet.(彼女はトランペットを吹きます)
+- She talks fast.(彼女は速く話します)
+- They sleep well.(彼らはぐっすり寝ます)
+- It rains a lot here.(ここではたくさん雨が降る)
+- It is 8 o'clock.(今8時です)
+
+---
+
+## Lesson 08 名詞と代名詞
+
+- 名詞はS/C/Oになる
+- 可算名詞と不可算名詞を考える必要がある
+- 目的格の代名詞(単数/複数)
+  - me/us
+  - you
+  - him・her・it/ them
+- 所有格の代名詞(段数/複数)
+  - my/our
+  - your
+  - his・her・its/
+  - their
+- 指示代名詞(単数/複数)
+  - this/these
+  - that/those
+- 所有代名詞(単数/複数)
+  - mine/ours
+  - yours
+  - his・hers/theirs
+
+### 例文
+
+- You write two letters.(あなたは2通の手紙を書きます)
+- You have some notebooks.(あなたは数冊のノートを持っています)
+- We need a glass of water.(私たちはコップ1杯の水が必要です)
+- I want a cup of coffee.(私は1杯のコーヒーが欲しい)
+- They use a sheet of paper.(彼らは1枚の紙を使います)
+- He eats a slice of bread for breakfast.(彼は朝食に1切れのパンを食べます)
+- She calls him at night.(彼女は夜、彼に電話します)
+- His brother bakes cookies in an oven.(彼の弟はオーブンでクッキーを焼きます)
+- Her dad trusts you very much.(彼女のお父さんは君をとても信頼しています)
+
+--- 
+
+## Lesson 09 否定文と疑問文
+
+---
+
+## Lesson 10 過去形
+
+---
+
+## Lesson 11 冠詞と名詞
+
+---
+
+## Lesson 12 進行形
+
+---
+
+## Lesson 13 未来の表現
+
+---
+
+## Lesson 14 助動詞
+
+---
+
+## Lesson 15 疑問詞を使った疑問文
+
+---
+
+## Lesson 16 前置詞と名詞
+
+---
+
+## Lesson 17 不定詞
+
+---
+
+## Lesson 18 動名詞と不定詞
+
+---
+
+## Lesson 19 接続詞
+
+---
+
+## Lesson 20 比較の表現その1　比較級と最上級
+
+---
+
+## Lesson 21 比較の表現その2　比較のいろいろ
+
+---
+
+## Lesson 22 受け身の表現
+
+---
+
+## Lesson 23 重要表現のいろいろ
+
+### 不定詞
+- too 形容詞 (for 人) to V「あまりに〜で、(人は)Vできない」
+- so 形容詞 that S can't V 「とても〜でSはVできない」
+- 形容詞 enough to V 「Vするのに十分〜だ」
+- ask 人 to V (人にVするように頼む)
+- tell 人 to V (人にVするように言う)
+- want 人 to V (人にVしてもらいたい)
+- would like 人 to V (人にVしていただきたい)
+
+### 接続詞
+- after S V (SがVした後)
+- before S V (SがVする前)
+- while S V (SがVしている間に)
+- till S V (SがVするまで)
+- not only A but (also) B (AだけではなくBも)
+- B as well as A (AはもちろんBも)
+- both A and B (AもBも両方とも)
+- not A but B (AではなくB)
+- as soon as S V (SがVするとすぐに)
+- either A or B (AかBのどちらか)
+- neither A nor B (AもBも〜ない)
+- I'm afraid that〜 (〜ではないかと思う)
+- I'm sure that〜 (きっと〜だと思う)
+- I'm glad that〜 (〜で嬉しい)
+
+### 間接疑問文
+SVOの目的語(O)に疑問詞付きの疑問文を入れた表現  
+例) I don't know where he lives.
+
+### 受け身
+- be covered with〜 (〜で覆われている)
+- be surprised at〜 (〜に驚く)
+- be known to〜 (〜に知られている)
+- be born in〜 (〜で生まれる)
+- be born on〜 (〜に生まれる)
+- be filled with〜 (〜でいっぱい)
+- be interested in〜 (〜に興味がある)
+- be made of/from〜 (〜で作られている)
+- 助動詞の受け身  
+  - 助動詞 + be動詞 + 過去分詞  
+  例) The system will be checked by him.
+
+---
+
+## Lesson 24 現在完了形その1　完了と結果
+
+現在完了形  
+**have/has + 過去分詞**
+
+- 完了 〜したところだ
+- 結果 〜してしまった  
+
+※よく一緒に使われる単語  
+- just ちょうど
+- already すでに
+- yet まだ〜ない、もう
+
+---
+
+## Lesson 25 現在完了形その2　継続と経験
+
+- 継続 (ずっと)〜している
+  - since 〜以来
+  - for 〜の間
+- 経験 〜したことがある
+  - ever 今までに
+  - never 一度も〜ない
+  - before 以前に
+
+---
+
+## Lesson 26 現在分詞と過去分詞
+
+---
+
+## Lesson 27 関係代名詞その1　主格と目的格
+
+---
+
+## Lesson 28 関係代名詞その2　所有格
+
+---
+
+## Lesson 29 英文解釈のコツ
