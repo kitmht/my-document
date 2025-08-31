@@ -187,6 +187,36 @@
 
 ## Lesson 09 否定文と疑問文
 
+- be動詞の否定文
+  - be動詞の後ろにnot
+- be動詞の疑問文
+  - be動詞を文頭に移動
+- 一般動詞の否定文
+  - 一般動詞の前にdo/does not
+- 一般動詞の疑問文
+  - Do/Doesを文頭に移動
+- 命令文
+  - s(主語)が省略される→動詞の原形から始まる
+  - 文頭にDon'tを付けると禁止の表現
+  
+
+### 例文
+
+- Is Mr.Komatsu friendly and hard-working?(コマツ氏は愛想が良くて、働き者ですか？)
+  - Yes,he is.(はい、彼はそうです)
+  - No,he isn't.(いいえ、彼はそうではありません)
+- She doesn't travel around the world.(彼女は世界中を旅しません)
+- Does Kazuto spend mush money?(カズトはたくさんのお金を費やしますか？)
+  - Yes,he is.
+- Do Maki and Emi learn a lot of gestures for communication?(マキとエミは意思疎通のために、たくさんのジェスチャーを学びますか？)
+  - No,they don't.
+- Are you ready for the interview?(君たちはインタビューの準備ができていますか？)
+  - Yes,we are.
+  - No,we aren't.
+- Don't worry about me.(私のことは心配しないで)
+- Don't be afraid.(恐れないで)
+- Please follow me.(どうぞ私の後について来てください)
+
 ---
 
 ## Lesson 10 過去形
