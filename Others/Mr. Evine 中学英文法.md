@@ -138,7 +138,6 @@
   - You
   - He・She・It/They
 
-
 ### 例文
 
 - She is a teacher.(彼女は先生です)
@@ -199,7 +198,6 @@
   - s(主語)が省略される→動詞の原形から始まる
   - 文頭にDon'tを付けると禁止の表現
   
-
 ### 例文
 
 - Is Mr.Komatsu friendly and hard-working?(コマツ氏は愛想が良くて、働き者ですか？)
@@ -220,6 +218,40 @@
 ---
 
 ## Lesson 10 過去形
+
+- be動詞の過去形
+  - is/am → was
+  - are → were
+- be動詞の過去否定文
+  - wasn't
+  - weren't
+- be動詞の過去疑問文
+  - Was/Wereが前に来るだけ
+- 一般動詞の過去形
+  - 動詞よる(〜ed、など)
+- 一般動詞の過去否定文
+  - do/doesがdidになるだけ
+- 一般動詞の過去疑問文
+  - 文頭にDid
+
+### 例文
+
+- I was in the middle of the city.(僕は街の真ん中にいました)
+- You were absent from the party.(あなたはパーティ
+を欠席しました)
+- It wasn't the wing of an airplane.(それは飛行機の翼ではなかった)
+- You weren't my boss.(あなたは僕の上司ではなかった)
+- He played tennis there.(彼はそこでテニスをしました)
+- He didn't read a textbook.(彼は参考書を読まなかった)
+- These shoes didn't fit me.(あの靴は僕に合いませんでした)
+- Did she help her uncle?(彼女はおじさんを手伝いましたか？)
+- Did you brush your teeth?(あなたは歯を磨きましたか？)
+  - Yes,I did.
+- She ate this cake yesterday.(彼女は昨日このケーキを食べた)
+- They ran away then.(彼女はたちはその時、逃げました)
+- He went to the river exactly nine days ago.(彼はその川へちょうど9日前に行った)
+- She cut her finger badly at that time.(彼女はその時、ひどく指を切りました)
+- I checked the official website this morning.(私は今朝、その公式ホームページをチェックした)
 
 ---
 
