@@ -266,6 +266,31 @@
 
 ## Lesson 12 進行形
 
+- 現在進行形 → be動詞 + 動詞ing
+  - 肯定文 is plaing
+  - 否定文 isn't plaing
+  - 疑問文 Is he plaing ~
+- 過去進行形 → was/were + 動詞ing
+  - 肯定文 was playing
+  - 否定文 wasn't plaing
+  - 疑問文 Was he plaing ~
+- 状態動詞はingにしない(like,love,want,know,understandなど)
+
+### 例文
+
+- She is speaking English now.(彼女は今、英語を話します)
+- Erika's father is having breakfast now.(今、エリカの父は朝食を食べています)
+- He is caring for elderly people.(彼はお年寄りを介護しているところです)
+- He isn't sweeping the dust off the floor.(彼は床のゴミを掃いているところではない)
+- Is he sweeping the dust off the floor?(彼は床のゴミを掃いているところですか？)
+  - Yes, he is./ No, he isn't.
+- She was selling caps.(彼女は帽子を売っていました)
+- Yui wasn't taking a nap.(ユイは昼寝をしていたのではありません)
+- Was Yui taking a nap?(ユイは昼寝をしていたのですか？)
+   - Yes, she was./ No, she wasn't.
+- Were they studing?(彼らは勉強をしていましたか？)
+  - I don't think so. They were chatting all the time.(そうは思はないなあ。ずっとおしゃべりしてたよ)
+
 ---
 
 ## Lesson 13 未来の表現
