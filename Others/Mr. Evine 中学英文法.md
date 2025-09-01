@@ -295,6 +295,35 @@
 
 ## Lesson 13 未来の表現
 
+- be動詞 + going to + 動詞の原形 → 〜するつもり(予定、計画)
+  - 肯定文 is going to 動詞の原形
+  - 否定文 isn't going to 動詞の原形
+  - 疑問文 Is ~ going to 動詞の原形 ?
+- will + 動詞の原形 → 〜するだろう(単純未来)
+  - 肯定文 will 動詞の原形
+  - 否定文 will not(won't) 動詞の原形
+  - 疑問文 Will ~　動詞の原形 ~ ?
+- 未来を表す語句
+  - tomorrow(明日)
+  - next~(次の「曜日」「週」「月」「年」など)
+  - this~(この「曜日」「週」「月」「年」など)
+  - some day(いつか)
+  - in the future(将来に)
+
+### 例文
+
+- He is going to borrow a little money.(彼は少しのお金を借りるつもりです)
+- The birds will escape from a cage.(その鳥は檻から逃げるだろう)
+- I'm going to attend the meeting tomorrow.(僕は明日、その会議に出席するつもりだ)
+- I will attend the meeting tomorrow.(僕は明日、その会議に出席するだろう)
+- It's going to rain tonight.(今夜は雨だ)
+- It will rain tomorrow.(明日は雨だろう)
+- I will be there tomorrow.(明日、そこにいるだろう)
+- Are you going to plan golf next week?(来週、あなたはゴルフをするつもりですか？)
+- I'm not goint to meet her this Sunday.(僕はこの日曜日、彼女に会うつもりはない)
+- Their business will fail some day.(彼らのビジネスはいつか失敗するだろう)
+- He wil be a famous actor in the future.(彼は将来、有名な俳優になるだろう)
+  
 ---
 
 ## Lesson 14 助動詞
