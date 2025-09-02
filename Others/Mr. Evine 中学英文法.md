@@ -328,6 +328,61 @@
 
 ## Lesson 14 助動詞
 
+- 必須助動詞
+  - will 
+    - 意味：「〜するよ」「〜するつもりはない」(否定文)
+    - 否定形：won't
+    - 過去形：would
+
+  - can
+    - 意味：「〜することができる」「〜してもよい」「〜することがあり得る」
+    - 否定形：can't
+    - 過去形：could
+    - ※ be able to ~ と書き換え可能
+
+  - must
+    - 意味：「〜しなければならない」「〜にちがいない」「〜してはいけない」(否定文)
+    - 否定形：mustn't
+    - 過去形：なし
+    - ※ have to ~ と書き換え可能
+
+  - may
+    - 意味：「〜かもしれない」「〜してよい」
+    - 否定形：may not
+    - 過去形：might
+
+  - should
+    - 意味：「〜するべきだ」
+    - 否定形；shouldn't
+    - 過去形：なし(shallの過去形のため)
+
+  ### 例文
+
+  - I'll cheer her up right now.(今すぐ、僕が彼女を元気づけてくるよ)
+  - I'll do my best.(ベストを尽くします)
+  - My dog won't eat carrots and pumpkins.(僕の犬はニンジンとカボチャを食べようとしません)
+  - Will you explain the problem?(その問題を説明してくれませんか？)
+  - Would you like some tea or coffee?(お茶かコーヒーはいかがですか？)
+  - I'd like to speak to Mr.Williams about our schedule.(ウィリアムズ氏と我々のスケジュールについて話をさせていただきたいのですが・・・)
+  - He can pay enough money.(彼は十分なお金を支払うことができる)
+  - I can't lend you money.(僕はあなたにお金を貸すことはできません)
+  - Can I make an appointment?(予約してもいいですか？)
+  - The story can be true.(その話は真実であり得る)
+  - You must try a new model.(君は新しいモデルを試さなければならない)
+  - He must be there.(彼はそこにいるに違いない)
+  - He has to agree to this offer.(彼はこのオファーに同意しなければならない)
+  - You have to go alone.(君は一人で行かなければなりません)
+  - Do you have to go alone?(君は一人で行かなければならないのですか？)
+  - You don't have to go alone.(君は一人で行く必要はありません)
+  - You must not go alone.(君は一人で言ってはいけません)
+  - She may be wrong.(彼女は間違っているかもしれない)
+  - May I send an email to you?(君にEメールを送っていいですか？)
+  - You should believe your partner.(君はパートナーを信じるべきだ)
+  - You shouldn't see it as a serious problem.(君はそれを深刻な問題と見るべきではない)
+  - Shall I bring your tea?(お茶をお持ちしましょうか？)
+  - Shall we go shopping?(買い物に行きましょうか？)
+ 
+
 ---
 
 ## Lesson 15 疑問詞を使った疑問文
