@@ -381,11 +381,64 @@
   - You shouldn't see it as a serious problem.(君はそれを深刻な問題と見るべきではない)
   - Shall I bring your tea?(お茶をお持ちしましょうか？)
   - Shall we go shopping?(買い物に行きましょうか？)
- 
 
 ---
 
 ## Lesson 15 疑問詞を使った疑問文
+
+- 疑問詞は名詞、形容詞、副詞に置き換わって、文頭に移動する
+
+- what
+  - 意味：「何を、何が」「何の」
+  - 役割：物事を尋ねる(疑問代名詞、疑問形容詞)
+
+- which
+  - 意味：「どちらが、どれが」「どちらの」
+  - 役割：どちらかを尋ねる(疑問代名詞、疑問形容詞)
+
+- who
+  - 意味：「誰、誰が」
+  - 役割：人を尋ねる(疑問代名詞)
+
+- whose
+  - 意味：「誰のもの」「誰の」
+  - 役割：所有者を尋ねる(疑問代名詞、疑問形容詞)
+
+- where
+  - 意味：「どこ」
+  - 役割：場所を尋ねる(疑問副詞)
+
+- when
+  - 意味：「いつ」
+  - 役割：時を尋ねる(疑問副詞)
+
+- why
+  - 意味：「なぜ」
+  - 役割：原因、理由を尋ねる(疑問副詞)
+
+- how
+  - 意味：「どのように」「どれくらい」
+  - 役割：方法、程度を尋ねる(疑問副詞)
+
+### 例文
+
+- What will he plan?(彼は何を計画する予定ですか？)
+- What is this?(これは何ですか？)
+- Which is your card?(どちらがあなたのカードですか？)
+- Which car is hers?(どちらの車が彼女のですか？)
+- Who is sho?(彼女は誰ですか？)
+- Who broke this window?(誰がこの窓を割ったの？)
+- Whose dress is that?(あれは誰のドレスですか？)
+- Whose is that truck?(あのトラックは誰のものですか？)
+- Where did he improve his English?(どこで彼は英語を上達させたの？)
+- When will you order some oil?(いつオイルを注文する予定ですか？)
+- What time did you get up?(何時に起きましたか？)
+- Why are you so tired?(なぜ君はそんなに疲れているの？)
+- How do you spell that?(そのつづりはどう書くのですか？)
+- How old are you?(あなたは何歳ですか？)
+- How far did it fly?(それはどれくらい遠く飛びましたか？)
+- How many books did you buy?(君は本を何冊買ったの？)
+- How much money did you earn?(どれくらいのお金を君は稼いだの？)
 
 ---
 
