@@ -444,6 +444,74 @@
 
 ## Lesson 16 前置詞と名詞
 
+- 時の前置詞
+  - in 〜に(年、月、季節)
+  - on 〜に(曜日、特定の日)
+  - at 〜に(時刻)
+  - for 〜の間(具体的な年数、日数、時間)
+  - during 〜の期間(大まかな一定期間、時期)
+  - till(until) 〜まで(ある動作の継続期間)
+  - by 〜までに(ある動作の完了期間)
+  - before 〜の前に
+  - after 〜の後に
+  - through 〜の間中
+  - from A to B 〜AからBまで
+- 場所の前置詞
+  - in 〜に(広がりのある空間)
+  - at 〜で(ある一点の場所、地点)
+  - on 〜の上で(面にピタリと接触)
+  - under 〜の真下に
+  - over 〜の真上に
+  - above 〜より上方に
+  - below 〜より下方に
+  - behind 〜の後ろに
+  - in front of 〜の前に
+  - near 〜の近くに
+  - by 〜のそばに
+  - among 〜(3個、3人以上)の間で
+  - between 〜(2個、2人)の間で
+  - between A and B AとBの間で
+- 方向の前置詞
+  - for 〜のために、〜に向かって
+  - to 〜へ
+  - from 〜から
+  - against 〜に反対して、〜に逆らって
+  - across 〜を横切って、〜を渡って
+  - along 〜に沿って
+- 時、場所、方向、以外
+  - by 交通手段(〜で)
+  - about 対象(〜について)
+  - with 道具、所有、状況(〜で、と) / without (〜なしで)
+  - of 所有(〜の)
+  - like 〜のように
+
+### 例文
+
+- We met a whale and a shark in the sea.(私たちは海中でクジラやサメに出会いました)
+- She hates the crowd in a concert.(彼女はコンサートの群衆が大嫌いです)
+- Some pilots are from China.(何人かのパイロットたちは中国出身です)
+- We're looking for him in a group.(私たちはグループで彼を探しています)
+- I looked at the new design.(私はその新しいデザインを見ました)
+- School starts in spring.(学校は春に始まる)
+- You go shopping on Sunday.(あなたは日曜日に買い物に出かける)
+- I go to bed at 11.(私は11時に寝ます)
+- You should study English for 3 hours a day.(あなたは１日に３時間英語を勉強すべきです)
+- I will stay there during the national holidays.(僕は祝日の間、そこに滞在する予定だ)
+- You have to be here till next Monday.(君は来週の月曜日まで、ここにいなければならない)
+- I must come back by next Monday.(私は来週の月曜日までに戻らなければならない)
+- They may be quite famous in France.(彼らはフランスでかなり有名かもしれません)
+- She will be able to meet him at the station.(彼女は彼と駅で会うことができるでしょう)
+- There wasn't such a flag on the beach.(海辺には、そんな旗はなかった)
+- I bought a bunch of roses for my wife.(僕は妻に、バラの花束を買いました)
+- We went to the west of Russia last September.(私たちは去年の９月、ロシアの西部に行った)
+- You come from the east of London, right?(あなたはロンドンの東部から来たんですよね？)
+- The ship was going against the wave.(その船は波に逆らって進んでいた)
+- There is a new house across this street.(この通りの向かい側に、新しい家があります)
+- Go straight along this main street.(このメインストリートに沿って、真っ直ぐ行きなさい)
+- A friend of mine gave this to me in return.(僕の友人の一人がお返しに、これを僕にくれました)
+- It sounded like on old style of music.(それは古いスタイルの音楽のように聞こえた)
+
+
 ---
 
 ## Lesson 17 不定詞
