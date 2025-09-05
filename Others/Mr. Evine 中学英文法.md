@@ -509,7 +509,7 @@
 - There is a new house across this street.(この通りの向かい側に、新しい家があります)
 - Go straight along this main street.(このメインストリートに沿って、真っ直ぐ行きなさい)
 - A friend of mine gave this to me in return.(僕の友人の一人がお返しに、これを僕にくれました)
-- It sounded like on old style of music.(それは古いスタイルの音楽のように聞こえた)
+- It sounded like an old style of music.(それは古いスタイルの音楽のように聞こえた)
 
 
 ---
