@@ -237,8 +237,7 @@
 ### 例文
 
 - I was in the middle of the city.(僕は街の真ん中にいました)
-- You were absent from the party.(あなたはパーティ
-を欠席しました)
+- You were absent from the party.(あなたはパーティを欠席しました)
 - It wasn't the wing of an airplane.(それは飛行機の翼ではなかった)
 - You weren't my boss.(あなたは僕の上司ではなかった)
 - He played tennis there.(彼はそこでテニスをしました)
@@ -320,7 +319,7 @@
 - It will rain tomorrow.(明日は雨だろう)
 - I will be there tomorrow.(明日、そこにいるだろう)
 - Are you going to plan golf next week?(来週、あなたはゴルフをするつもりですか？)
-- I'm not goint to meet her this Sunday.(僕はこの日曜日、彼女に会うつもりはない)
+- I'm not going to meet her this Sunday.(僕はこの日曜日、彼女に会うつもりはない)
 - Their business will fail some day.(彼らのビジネスはいつか失敗するだろう)
 - He wil be a famous actor in the future.(彼は将来、有名な俳優になるだろう)
   
