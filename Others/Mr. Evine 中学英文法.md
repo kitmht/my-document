@@ -204,7 +204,7 @@
   - Yes,he is.(はい、彼はそうです)
   - No,he isn't.(いいえ、彼はそうではありません)
 - She doesn't travel around the world.(彼女は世界中を旅しません)
-- Does Kazuto spend mush money?(カズトはたくさんのお金を費やしますか？)
+- Does Kazuto spend much money?(カズトはたくさんのお金を費やしますか？)
   - Yes,he is.
 - Do Maki and Emi learn a lot of gestures for communication?(マキとエミは意思疎通のために、たくさんのジェスチャーを学びますか？)
   - No,they don't.
