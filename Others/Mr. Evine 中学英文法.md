@@ -515,6 +515,34 @@
 
 ## Lesson 17 不定詞
 
+- 名詞的用法「〜すること」
+- 形容詞的用法「〜するための〜、〜するべき〜」
+- 副詞的用法「〜するために」「〜して」
+- 関連表現
+  - It is ~ (for A) to 動詞の原形 「(Aが)〜することは〜だ」
+  - 疑問詞 + to 動詞の原形
+    - how to 動詞の原形 「〜する方法」
+    - what to 動詞の原形 「何を〜すべきか」
+    - where to 動詞の原形 「どこで〜すべきか」
+    - when to 動詞の原形 「いつ〜すべきか」
+    - which 名詞 to 動詞の原形 「どの〜を〜すべきか」
+    - which to 動詞の原形 「どちらを〜すべきか」
+
+### 例文
+
+  - To live in a mansion is our dream.(大豪邸に住むことが私たちの夢です)
+  - We're planning to live in a mansion.(私たちは大豪邸に住むことを計画中だ)
+  - Our dream is to live in a mansion.(私たちの夢は大豪邸に住むことです)
+  - I need something to try.(僕は試すための何かが必要です)
+  - I went to the station to meet him.(私は彼を迎えに行くために駅に行きました)
+  - I was very glad to see you again.(僕はまた君に会えて、とても嬉しかった)
+  - It is necessary for you to tell him the reason.(あなたが彼にその理由を話すことは必要です)
+  - Mayu wanted to know how to rent a car.(マユは車の借り方を知りたかった)
+  - He didn't know what to do next.(彼は次に何をすべきかわからなかった)
+  - Do you know where to take a train?(あなたはどこで電車に乗るべきか知っていますか？)
+  - I didn't know when to leave here.(私はいつここを去るべきかわからなかった)
+  - I can't decide which shirt to put on.(僕はどのシャツを着るべきか決めることができない)
+
 ---
 
 ## Lesson 18 動名詞と不定詞
