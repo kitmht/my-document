@@ -530,22 +530,48 @@
 
 ### 例文
 
-  - To live in a mansion is our dream.(大豪邸に住むことが私たちの夢です)
-  - We're planning to live in a mansion.(私たちは大豪邸に住むことを計画中だ)
-  - Our dream is to live in a mansion.(私たちの夢は大豪邸に住むことです)
-  - I need something to try.(僕は試すための何かが必要です)
-  - I went to the station to meet him.(私は彼を迎えに行くために駅に行きました)
-  - I was very glad to see you again.(僕はまた君に会えて、とても嬉しかった)
-  - It is necessary for you to tell him the reason.(あなたが彼にその理由を話すことは必要です)
-  - Mayu wanted to know how to rent a car.(マユは車の借り方を知りたかった)
-  - He didn't know what to do next.(彼は次に何をすべきかわからなかった)
-  - Do you know where to take a train?(あなたはどこで電車に乗るべきか知っていますか？)
-  - I didn't know when to leave here.(私はいつここを去るべきかわからなかった)
-  - I can't decide which shirt to put on.(僕はどのシャツを着るべきか決めることができない)
+- To live in a mansion is our dream.(大豪邸に住むことが私たちの夢です)
+- We're planning to live in a mansion.(私たちは大豪邸に住むことを計画中だ)
+- Our dream is to live in a mansion.(私たちの夢は大豪邸に住むことです)
+- I need something to try.(僕は試すための何かが必要です)
+- I went to the station to meet him.(私は彼を迎えに行くために駅に行きました)
+- I was very glad to see you again.(僕はまた君に会えて、とても嬉しかった)
+- It is necessary for you to tell him the reason.(あなたが彼にその理由を話すことは必要です)
+- Mayu wanted to know how to rent a car.(マユは車の借り方を知りたかった)
+- He didn't know what to do next.(彼は次に何をすべきかわからなかった)
+- Do you know where to take a train?(あなたはどこで電車に乗るべきか知っていますか？)
+- I didn't know when to leave here.(私はいつここを去るべきかわからなかった)
+- I can't decide which shirt to put on.(僕はどのシャツを着るべきか決めることができない)
 
 ---
 
 ## Lesson 18 動名詞と不定詞
+
+- 動詞が名刺になったもの
+- 「〜すること」と訳す → 不定詞の名詞的用法と同じ働き
+- 動名詞と不定詞の違い
+  - 動名詞 → 習慣的な行為や一般論を示す
+  - 不定詞 → これから先のことをイメージ
+- 動名詞の表現
+  - How about -ing? 「〜してはどうですか？」
+  - look forward to -ing? 「〜するのを楽しみにする」
+  - be動詞 + good at -ing 「〜が得意である」
+  - without -ing 「〜しないで」
+  - by -ing 「〜することで」
+
+### 例文
+
+- Reading Books is interesting.(本を読むことは面白いです)
+- He likes riding horses.(彼は馬に乗ることが好きです)
+- My dream is visiting temples in India.(僕の夢はインドの寺院を訪れることです)
+- Thank you for asking.(気にかけてくれてありがとう)
+- I'm looking forward to hearing from you.(あなたからの便りを楽しみに待っています)
+- How about tasting my special sauce?(私の特製ソースを味わいませんか？)
+- I'm looking forward to seeing you in Kobe.(神戸であなたと会うのを楽しみにしています)
+- You are good at painting ceilings.(君は天井にペンキを塗るのが上手です)
+- He came back without buying cheap furniture.(彼は安物家具を買わずに戻ってきました)
+- She lost weight by walking every night.(彼女は毎晩歩くことで、減量しました)
+
 
 ---
 
