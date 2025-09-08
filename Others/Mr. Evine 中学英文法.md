@@ -425,7 +425,7 @@
 - What is this?(これは何ですか？)
 - Which is your card?(どちらがあなたのカードですか？)
 - Which car is hers?(どちらの車が彼女のですか？)
-- Who is sho?(彼女は誰ですか？)
+- Who is she?(彼女は誰ですか？)
 - Who broke this window?(誰がこの窓を割ったの？)
 - Whose dress is that?(あれは誰のドレスですか？)
 - Whose is that truck?(あのトラックは誰のものですか？)
