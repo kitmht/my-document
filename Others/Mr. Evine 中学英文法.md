@@ -577,6 +577,34 @@
 
 ## Lesson 19 接続詞
 
+- 等位接続詞 → 文法的に対等な関係にあるもの同士を繋げる接続詞
+  - and 「AとB」
+  - or  「AかB」
+  - but 「AだがB」、「A、しかしB」「A、でもB」
+- 従属接続詞 → 話の主旨となる英文に副詞節や名詞節を繋げる接続詞
+  - 副詞節 - より詳しい状況などを説明
+    - when 「〜のとき」
+    - because 「なぜなら〜」
+    - if 「もし〜なら」
+    - though 「〜だけれども」
+  - 名詞節 - 主要素である目的語になる
+    - that 「〜ということ」
+
+### 例文
+
+- I own a house and a boat.(僕は家と船を所有しています)
+- They may attack you or me.(彼らは君か私を攻撃するかもしれません)
+- You or your son is wrong.(君か、君の息子のどちらかが間違っています)
+- I advised you but you didn't stop it.(僕は君に助言した、でも君はそれを止めなかった)
+- The baby began to cry when she returned.(彼女が戻った時、その赤ん坊は泣き始めました)
+- I didn't know that she got married to him.(僕は彼女が彼と結婚したことを知りませんでした)
+- He was sure because he knew everything.(彼は確信していました、なぜなら全て知っていたからです)
+- We will meet him if it is fine tomorrow.(もし明日晴れていれば、私たちは彼に会う予定です)
+- I hurt her last night though I didn't mean it.(そんなつもりじゃなかったけど、昨日の夜、僕は彼女を傷つけました)
+- He studied music and his sister studied art in New York.(ニューヨークで、彼は音楽を勉強し、彼の妹は美術を勉強しました)
+- He went to the island and never come back.(彼はその島に行き、二度と帰ってきませんでした)
+- She ordered a sandwich but I didn't.(彼女はサンドイッチを注文したけど、僕はしなかった)
+
 ---
 
 ## Lesson 20 比較の表現その1　比較級と最上級
