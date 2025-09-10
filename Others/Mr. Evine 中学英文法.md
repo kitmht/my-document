@@ -355,31 +355,31 @@
     - 否定形；shouldn't
     - 過去形：なし(shallの過去形のため)
 
-  ### 例文
+### 例文
 
-  - I'll cheer her up right now.(今すぐ、僕が彼女を元気づけてくるよ)
-  - I'll do my best.(ベストを尽くします)
-  - My dog won't eat carrots and pumpkins.(僕の犬はニンジンとカボチャを食べようとしません)
-  - Will you explain the problem?(その問題を説明してくれませんか？)
-  - Would you like some tea or coffee?(お茶かコーヒーはいかがですか？)
-  - I'd like to speak to Mr.Williams about our schedule.(ウィリアムズ氏と我々のスケジュールについて話をさせていただきたいのですが・・・)
-  - He can pay enough money.(彼は十分なお金を支払うことができる)
-  - I can't lend you money.(僕はあなたにお金を貸すことはできません)
-  - Can I make an appointment?(予約してもいいですか？)
-  - The story can be true.(その話は真実であり得る)
-  - You must try a new model.(君は新しいモデルを試さなければならない)
-  - He must be there.(彼はそこにいるに違いない)
-  - He has to agree to this offer.(彼はこのオファーに同意しなければならない)
-  - You have to go alone.(君は一人で行かなければなりません)
-  - Do you have to go alone?(君は一人で行かなければならないのですか？)
-  - You don't have to go alone.(君は一人で行く必要はありません)
-  - You must not go alone.(君は一人で言ってはいけません)
-  - She may be wrong.(彼女は間違っているかもしれない)
-  - May I send an email to you?(君にEメールを送っていいですか？)
-  - You should believe your partner.(君はパートナーを信じるべきだ)
-  - You shouldn't see it as a serious problem.(君はそれを深刻な問題と見るべきではない)
-  - Shall I bring your tea?(お茶をお持ちしましょうか？)
-  - Shall we go shopping?(買い物に行きましょうか？)
+- I'll cheer her up right now.(今すぐ、僕が彼女を元気づけてくるよ)
+- I'll do my best.(ベストを尽くします)
+- My dog won't eat carrots and pumpkins.(僕の犬はニンジンとカボチャを食べようとしません)
+- Will you explain the problem?(その問題を説明してくれませんか？)
+- Would you like some tea or coffee?(お茶かコーヒーはいかがですか？)
+- I'd like to speak to Mr.Williams about our schedule.(ウィリアムズ氏と我々のスケジュールについて話をさせていただきたいのですが・・・)
+- He can pay enough money.(彼は十分なお金を支払うことができる)
+- I can't lend you money.(僕はあなたにお金を貸すことはできません)
+- Can I make an appointment?(予約してもいいですか？)
+- The story can be true.(その話は真実であり得る)
+- You must try a new model.(君は新しいモデルを試さなければならない)
+- He must be there.(彼はそこにいるに違いない)
+- He has to agree to this offer.(彼はこのオファーに同意しなければならない)
+- You have to go alone.(君は一人で行かなければなりません)
+- Do you have to go alone?(君は一人で行かなければならないのですか？)
+- You don't have to go alone.(君は一人で行く必要はありません)
+- You must not go alone.(君は一人で言ってはいけません)
+- She may be wrong.(彼女は間違っているかもしれない)
+- May I send an email to you?(君にEメールを送っていいですか？)
+- You should believe your partner.(君はパートナーを信じるべきだ)
+- You shouldn't see it as a serious problem.(君はそれを深刻な問題と見るべきではない)
+- Shall I bring your tea?(お茶をお持ちしましょうか？)
+- Shall we go shopping?(買い物に行きましょうか？)
 
 ---
 
@@ -608,6 +608,24 @@
 ---
 
 ## Lesson 20 比較の表現その1　比較級と最上級
+
+- 比較級「〜より〜」
+  - 形容詞or / 副詞er than 〜
+- 最上級「1番〜」
+  - the形容詞est / 副詞est
+
+### 例文
+
+- Bob is taller than Andre.(ボブはアンドレよりも背が高いです)
+- Andre studies harder than Bob.(アンドレはボブよりも熱心に勉強します)
+- She is younger than me.(彼女は私よりも若いです)
+- Mary is the shortest of the three.(メアリーは３人の中で１番背が低いです)
+- Lisa can swim the fastest in the class.(リサはクラスの中で１番速く泳げます)
+- This picture is the most beautiful of the five.(この絵は５枚の中で１番美しい)
+- He has more books than she.(彼は彼女よりも多くの本を持っています)
+- This dictionary is more useful than that one.(この辞書はあの辞書よりも役立つ)
+- My son performed a dance better than they.(息子は彼らよりもうまく踊りました)
+- His condition was worse this morning than last night.(今朝、彼の状態は昨日の夜よりも悪かった)
 
 ---
 
