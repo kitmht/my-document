@@ -631,6 +631,46 @@
 
 ## Lesson 21 比較の表現その2　比較のいろいろ
 
+- 同等比較「〜と同じくらい〜」
+  - as 形容詞・副詞の原級 as 〜
+    - as 〜 as possible 「できるだけ〜」
+    - twice as 〜 as 〜「〜の２倍の〜」
+- 比較級で最上級を意味する
+  - 比較級 + than + any other 単数名詞「他のどの〜より〜だ」
+
+### 例文
+
+- Runa is as cute as Ruby.(ルナはルビーと同じくらい可愛い)
+- Runa is not as cute as Ruby.(ルナはルビーほど可愛くはありません)
+- My nephew is as old as your niece.(僕の甥は君の姪と同年齢です)
+- The boy is as tall as you.(その男の子は君と同じくらいの背の高さだ)
+- You studied for a long time as hard as possible.(長い間、君はできるだけ一生懸命に勉強しました)
+- They are twice as old as you.(彼らはあなたの２倍の年齢です)
+- This mountain is half as high as Mt.Fuji.(この山は富士山の半分の高さです)
+- You study ten times as long as he.(君は彼の１０倍長い間勉強します)
+- I want to meet him as much as possible.(できるだけ多く、私は彼に会いたい)
+- I met as many as 100 men at the party.(私はパーティーで１００人もの男性に出会いました)
+- He is smarter than any other student in his class.(彼はクラスで他のどの生徒よりも賢い)
+- Kei is much more careful than you.(ケイはあなたよりもはるかに注意深いです)
+- That question is a little more difficult than this one.(あの問題は、これよりも少しだけ難しい)
+- The opening scene is much the greatest in this film.(その最初の場面はこの映画の中で抜群に素晴らしい)
+- The man likes bananas better than oranges.(その男はミカンよりもバナナが好きだ)
+- The man likes pears best.(その男は西洋ナシが１番好きだ)
+- She is one of the busiest women in Tokyo.(彼女は東京で１番忙しい女性のうちの１人です)
+- As far as I know, this is one of the most famous songs here.(私の知る限りでは、これは、ここでもっとも有名な歌の１つです)
+- It was getting darker and darker.(ますます暗くなってきていました)
+- The earth is getting warmer and warmer year after year.(地球は年々、ますます暖かくなっています)
+- Who is the best student in this class?(このクラスで誰が１番優秀な生徒ですか？)
+- Which is the worst book of these books?(これらの本の中で１番悪い本はどれですか？)
+- Which season do you like better, spring or fall?(春か秋、どちらの季節があなたは好きですか？)
+- What sports do you like best?(あなたは何のスポーツが１番好きですか？)
+- Please push my back harder.(もっと強く背中を押して下さい)
+- Speak louder.(もっと大きな声で話しなさい)
+- He prefers watching movies to traveling.(彼は旅行よりも映画を見ることを好む)
+- I prefer mayonnaise to ketchup on salad.(僕はサラダにはケチャップよりもマヨネーズを好む)
+- These goods are superior to those.(これらの商品はあれらのものよりも優れています)
+- Those goods are inferior to these.(あれらの商品はこれらのものよりも劣っています)
+
 ---
 
 ## Lesson 22 受け身の表現
