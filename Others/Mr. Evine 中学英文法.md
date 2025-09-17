@@ -675,6 +675,24 @@
 
 ## Lesson 22 受け身の表現
 
+- be動詞 + 過去分詞 + by 行為者 (〜に〜される)
+- 行為者を明確にする必要がなければby 行為者は不要
+
+### 例文
+
+- A table is cleaned by him.(テーブルは彼に掃除されます)
+- I was shocked by the unfair victory.(僕はその不公平な勝利にショックを受けた)
+- A book is sold at the shop.(本がその店で売られている)
+- Kei sent Tom money.(ケイはトムにお金を送りました)
+- Tom was sent money by Kei.(トムはケイにお金を送られました)
+- Money was sent to Tom by Kei.(ケイによって、お金はトムに送られました)
+- They named the baby Kate.(彼らはその赤ん坊をケイトと名付けた)
+- The baby was named Kate by them.(その赤ん坊は彼らにケイトと名付けられた)
+- He was looked at by the woman.(彼はその女性に見られました)
+- Her cousin is taken care of by her.(いとこは彼女に世話をされます)
+- More than 20 people were killed in the tsunami and flood.(２０人を超える人々が津波と洪水で亡くなった)
+- He was shot last night.(彼は昨夜、撃たれました)
+
 ---
 
 ## Lesson 23 重要表現のいろいろ
