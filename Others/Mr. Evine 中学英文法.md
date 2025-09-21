@@ -697,47 +697,91 @@
 
 ## Lesson 23 重要表現のいろいろ
 
-### 不定詞
-- too 形容詞 (for 人) to V「あまりに〜で、(人は)Vできない」
-- so 形容詞 that S can't V 「とても〜でSはVできない」
-- 形容詞 enough to V 「Vするのに十分〜だ」
-- ask 人 to V (人にVするように頼む)
-- tell 人 to V (人にVするように言う)
-- want 人 to V (人にVしてもらいたい)
-- would like 人 to V (人にVしていただきたい)
+- 不定詞
+  - too 形容詞 (for 人) to V「あまりに〜で、(人は)Vできない」
+  - so 形容詞 that S can't V 「とても〜でSはVできない」
+  - 形容詞 enough to V 「Vするのに十分〜だ」
+  - ask 人 to V (人にVするように頼む)
+  - tell 人 to V (人にVするように言う)
+  - want 人 to V (人にVしてもらいたい)
+  - would like 人 to V (人にVしていただきたい)
 
-### 接続詞
-- after S V (SがVした後)
-- before S V (SがVする前)
-- while S V (SがVしている間に)
-- till S V (SがVするまで)
-- not only A but (also) B (AだけではなくBも)
-- B as well as A (AはもちろんBも)
-- both A and B (AもBも両方とも)
-- not A but B (AではなくB)
-- as soon as S V (SがVするとすぐに)
-- either A or B (AかBのどちらか)
-- neither A nor B (AもBも〜ない)
-- I'm afraid that〜 (〜ではないかと思う)
-- I'm sure that〜 (きっと〜だと思う)
-- I'm glad that〜 (〜で嬉しい)
+- 接続詞
+  - after S V (SがVした後)
+  - before S V (SがVする前)
+  - while S V (SがVしている間に)
+  - till S V (SがVするまで)
+  - not only A but (also) B (AだけではなくBも)
+  - B as well as A (AはもちろんBも)
+  - both A and B (AもBも両方とも)
+  - not A but B (AではなくB)
+  - as soon as S V (SがVするとすぐに)
+  - either A or B (AかBのどちらか)
+  - neither A nor B (AもBも〜ない)
+  - I'm afraid that〜 (〜ではないかと思う)
+  - I'm sure that〜 (きっと〜だと思う)
+  - I'm glad that〜 (〜で嬉しい)
 
-### 間接疑問文
-SVOの目的語(O)に疑問詞付きの疑問文を入れた表現  
-例) I don't know where he lives.
+- 間接疑問文
+  - SVOの目的語(O)に疑問詞付きの疑問文を入れた表現  
+    例) I don't know where he lives.
 
-### 受け身
-- be covered with〜 (〜で覆われている)
-- be surprised at〜 (〜に驚く)
-- be known to〜 (〜に知られている)
-- be born in〜 (〜で生まれる)
-- be born on〜 (〜に生まれる)
-- be filled with〜 (〜でいっぱい)
-- be interested in〜 (〜に興味がある)
-- be made of/from〜 (〜で作られている)
-- 助動詞の受け身  
-  - 助動詞 + be動詞 + 過去分詞  
-  例) The system will be checked by him.
+- 受け身
+  - be covered with〜 (〜で覆われている)
+  - be surprised at〜 (〜に驚く)
+  - be known to〜 (〜に知られている)
+  - be born in〜 (〜で生まれる)
+  - be born on〜 (〜に生まれる)
+  - be filled with〜 (〜でいっぱい)
+  - be interested in〜 (〜に興味がある)
+  - be made of/from〜 (〜で作られている)
+  - 助動詞の受け身  
+    - 助動詞 + be動詞 + 過去分詞  
+      例) The system will be checked by him.
+
+### 例文
+
+- It was too hard for me solve the question on this top page.(このトップページの問題を解くのはあまりに難しくて私はできなかった)
+- I was so sleepy that I couldn't go to the theater.(僕はとても眠かったので、映画館に行くことができなかった)
+- The president was rich enough to buy the whole bridge.(その社長は十分金持ちだったのでその橋全体を買うことができた)
+- He had enough rooms to share.(彼は共有するだけの十分な部屋を持っていました)
+- The assistant asked him to get some tomatos.(その助手は彼にトマトを取るように頼んだ)
+- The manager told the guard to protect her.(支配人は警備員に彼女を守るように言った)
+- I asked him not to feed the dolphins.(僕は彼に、イルカたちにエサを与えないように頼んだ)
+- I didn't ask him to feed the dolphins.(僕は彼に、イルカたちにエサを与えるように頼まなかった)
+- I wanted her to boil water in the pan.(僕は彼女に鍋のお水を沸かして欲しかった)
+- I would like him to exchange business cards.(僕は彼に名刺を交換していただきたいのですが)
+- He died after she went to her hometown.(彼女が帰郷した後で、彼は死んだ)
+- Clean your room before she comes home.(彼女が家に来る前に部屋を掃除しなさい)
+- He lost his wallet while he was playing soccer.(サッカーしている間に彼は財布を無くした)
+- I had to wait till she came home(彼女が帰宅するまで待たなければならなかった)
+- She likes not only you but also him.(彼女は君だけでなく彼も好きです)
+- She likes both you and him.(彼女はあなたも彼も両方とも好きです)
+- He is not an engineer but a doctor.(彼はエンジニアではなく医者です)
+- I stopped cooking as soon as it began.(それが始まるとすぐに僕は料理するのをやめた)
+- As soon as I received his email, I replied to it.(彼のEメールを受け取るとすぐに返事をした)
+- You can print either this or that.(君はこれかあれのどちらかを印刷することができる)
+- You can print neither this nor that.(君はこれもあれも印刷することはできない)
+- I'm afraid there is no hope of her success.(残念ながら彼女の成功の望みはありません)
+- I'm sure this lake is 10 meters deep.(この湖はきっと１０メートルの深さだと思います)
+- I'm glad his leg and arm are getting better.(彼の足と腕が良くなってきて嬉しいです)
+- I don't know where he lives.(私は彼がどこに住んでいるのか知りません)
+- He told me how he improved his English.(彼はどのように英語を上達させたか僕に教えた)
+- Can you imagine who will come?(誰が来る予定なのか想像できますか？)
+- The customer complained and asked the clerk when the blanket would arrive.(その客は文句を言って、店員にいつその毛布が届くのか尋ねた)
+- My car was covered with snow this morning.(今朝、僕の車が雪で覆われていました)
+- Ayako was surprised at my silly face.(アヤコは僕の間抜けな顔に驚いた)
+- The terrible noise is known to most of the people on my block.(そのひどい騒音は私の地区のほとんどの人々に知られています)
+- She was born in Kobe.(彼女は神戸で生まれた)
+- The baby was born on January 9 this year.(その赤ちゃんは今年の１月９日に生まれました)
+- My mind was filled with energy.(僕の心はエネルギーでいっぱいだった)
+- The producer isn't interested in her gentle voice.(そのプロデューサーは彼女の穏やかな声に興味がない)
+- This desk is made of wood.(この机は木で作られている)
+- This wine is made from valuable grapes.(このワインは貴重なぶどうから作られている)
+- This system will be checked by him.(このシステムは彼に調査される予定です)
+- This system won't be checked by him.(このシステムは彼に調査される予定ではありません)
+- Will this system be checked by him?(このシステムは彼に調査される予定ですか？)
+  - Yes it will. / No is wwon't.
 
 ---
 
