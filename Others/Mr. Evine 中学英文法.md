@@ -787,16 +787,25 @@
 
 ## Lesson 24 現在完了形その1　完了と結果
 
-現在完了形  
-**have/has + 過去分詞**
+- 現在完了形 have/has + 過去分詞
+  - 完了 〜したところだ
+  - 結果 〜してしまった
+    - ※よく一緒に使われる単語  
+      - just ちょうど
+      - already すでに
+      - yet まだ〜ない、もう
 
-- 完了 〜したところだ
-- 結果 〜してしまった  
+### 例文
 
-※よく一緒に使われる単語  
-- just ちょうど
-- already すでに
-- yet まだ〜ない、もう
+- Hiroshi has just come home.(ヒロシはちょうど帰宅したところだ)
+- Yoshie has already prepared a bath.(ヨシエはすでにお風呂の準備をしました)
+- Hiroshi hasn't come home yet.(ヒロシはまだ帰宅していません)
+- Has Hiroshi come home yet?(ヒロシはもう帰宅しましたか？)
+- Yuko has broken her father's vase.(ユウコは父の花瓶を割ってしまった)
+- Misaki has gone to Tokyo by herself.(ミサキは１人で東京に行ってしまった)
+- He has lost $2 billion.(彼は２０億ドル無くしてしまった)
+- She has left Osaka for California.(彼女はカリフォルニアに向けて大阪を発ってしまった)
+- They have gone to Los Angeles.(彼らはロサンゼルスに行ってしまった)
 
 ---
 
