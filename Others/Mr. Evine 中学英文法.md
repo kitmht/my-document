@@ -818,6 +818,36 @@
   - ever 今までに
   - never 一度も〜ない
   - before 以前に
+- 経験回数を示す語句
+  - once 一度
+  - twice 二度
+  - 数字 + times 〜回
+  - many times 何度も
+
+### 例文
+
+- I have studied English for 16 years.(僕は英語を１６年間勉強しています)
+- I have lived in Tokyo for 5 years.(僕は東京に５年間住んでいます)
+- You have studied English since 2003.(君は英語を２００３年から勉強しています)
+- He has studied English since he came here.(彼はここに来て以来、英語を勉強しています)
+- She has been a teacher for 5 years.(彼女は５年間先生をしています)
+- We have known each other since last year.(私たちは去年からの知り合いです)
+- How long has he studied Japanese?(どれくらいの間、彼は日本語を勉強していますか？)
+- How long have you been a tour guide in Kobe?(どらくらいの期間、神戸でツアーガイドをしているのですか？)
+  - Since last summer.(去年の夏からです)
+- I have climbed Mt. Fuji before.(以前、私は富士山に登ったことがあります)
+- Have you ever watched this movie?(今までにこの映画を観たことがありますか？)
+  - Yes, I have.(はい、あります)
+  - No. I have never watched this movie.(いいえ、この映画を今までに観たことがありません)
+- I have met the lady before. She may make you angry because she is very rude.(僕はその婦人に以前出会ったことがあるんだ。かなり失礼な人だから君を怒らせるかもしれない)
+- She has been to Kyoto.(彼女は京都に行ったことがあります)
+- Has she ever been to Kyoto?(彼女は今までに京都に行ったことがありますか？)
+  - No. She has never been to Kyoto.(いいえ、彼女は京都に一度も行ったことがありません)
+- How many times have you played golf?(今までにあなたは何回ゴルフをしたことがありますか？)
+  - I have played golf three times.(私は３回、ゴルフをしたことがあります)
+- How often have you watched it?(あなたはどれくらいそれを見たことがありますか？)
+  - I have watched it many times.(私はそれを何度も見たことがあります)
+
 
 ---
 
