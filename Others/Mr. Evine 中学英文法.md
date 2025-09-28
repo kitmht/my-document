@@ -853,6 +853,33 @@
 
 ## Lesson 26 現在分詞と過去分詞
 
+- 現在分祠
+  - 動詞のing形
+- 過去分詞
+  - 動詞の過去分祠形
+- 分祠には名詞を修飾する形容詞の役割
+  - 分祠が２語以上の場合は名詞の後ろ(後置修飾)
+- 分祠のパターン
+  - be動詞 + 現在分祠 = 進行形
+  - be動詞 + 過去分祠 = 受け身
+  - have + 過去分祠 = 現在完了
+  - 名詞のすぐ前(後)に来て名刺を修飾
+
+### 例文
+
+- The woman sleeping on the sofa is Rieko.(ソファで寝ているその女性はリエコです)
+- The sleeping woman is Rieko.(その寝ている女性はリエコです)
+- Look at the singing girl.(歌っている女の子を見なさい)
+- Look at the girl singing songs on the stage.(舞台で歌を歌っている女の子を見なさい)
+- I don't know the man drinking at a bar.(私はバーで飲んでいるその男性を知りません)
+- The little cat is shaking.(その小さなネコは震えています)
+- James is loved by her.(ジェームズは彼女に愛されています)
+- They have experienced such a campaign.(彼らはそのようなキャンペーンを経験してきました)
+- The teacher loved by everyone is my friend.(皆に愛されているその先生は僕の友達です)
+- That woman reading a book is Ms. Harris.(本を読んでいるあの女性はハリスさんです)
+- The people taking part in the meeting have succeeded in business.(その会議に参加している人々はビジネスに成功してきました)
+
+
 ---
 
 ## Lesson 27 関係代名詞その1　主格と目的格
