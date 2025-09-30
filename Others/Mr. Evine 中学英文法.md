@@ -884,6 +884,22 @@
 
 ## Lesson 27 関係代名詞その1　主格と目的格
 
+- 主格の関係代名詞
+  - 先行詞が「人」 who / that
+  - 先行詞が「人以外」 which / that
+- 目的格の関係代名詞 ※目的格の関係代名詞は省略可能
+  - 先行詞が「人」 who / whom / that
+  - 先行詞が「人以外」 which / that
+
+### 例文
+
+- He is a student who is from Canada.(彼はカナダ出身の生徒です)
+- He has a girlfriend who teaches children English at school.(彼には、学校で子供たちに英語を教えているガールフレンドがいます)
+- You love the woman who Kazu loved.(君はカズが愛したその女性を愛している)
+- I know the girl who is his sister.(僕は彼の姉であるその女の子を知っています)
+- I know the place that Ken loves.(僕はケンが愛するその場所を知っています)
+- She can't agree to the plans he has made.(彼女は彼が作った計画に同意できません)
+
 ---
 
 ## Lesson 28 関係代名詞その2　所有格
