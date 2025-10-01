@@ -904,6 +904,19 @@
 
 ## Lesson 28 関係代名詞その2　所有格
 
+- 所有格の関係代名詞
+  - whose
+  - 「〜が〜である先行詞」、「〜が〜する先行詞」
+
+### 例文
+
+- I met a girl whose father teaches at the university.(私は父親がその大学で教えている女の子に出会った)
+- I met the man whose father survived in a war.(僕はお父さんが戦争で生き残った男性に会った)
+- She lives in a house whose garden is very big.(彼女は庭がとても大きな家に住んでいます)
+- He has the same book that my brother bought yesterday.(彼は僕の弟が昨日買った同じ本を持っています)
+- This is the only thing that makes me sad.(これは私を悲しくさせる唯一のものです)
+- It is the best stadium that you find here in Osaka.(そこはここ大阪で見られる１番素晴らしい競技場です)
+
 ---
 
 ## Lesson 29 英文解釈のコツ
